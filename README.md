@@ -1,0 +1,4 @@
+- 👋 Hi, I’m AyatAburomman
+- 👀 I’m interested in Data Analysis, networking, IOT 
+- 🌱 I’m currently learning Data Analysis
+- 📫 How to reach me (e-mail : ayataburomman99885@gmail.com)
